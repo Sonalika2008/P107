@@ -1,12 +1,12 @@
 body
 {
   font-family: 'WaltographRegular'; font-weight: normal; font-style: normal;
-  background: rgb(192, 239, 255);
+  background-image: linear-gradient(blue , lightblue);
 }
 
 .header_div
   {
-  background: rgb(195, 143, 255);
+   background:rgb(255, 173, 230);
   color: #000000; 
   }
 
